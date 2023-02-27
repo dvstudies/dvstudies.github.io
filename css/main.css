@@ -1,7 +1,7 @@
 body {
 font-family: 'Roboto', serif;
 font-size: 18px;
-background-image: url('../img/cross.png');
+background-image: url('./img/cross.png');
 background-attachment: fixed;
 }
 .title {
